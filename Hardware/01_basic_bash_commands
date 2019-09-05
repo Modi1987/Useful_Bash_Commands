@@ -1,0 +1,3 @@
+#!/bin/bash
+ls /dev # List all connected devices.
+dmesg | grep ttyUSB # shows the IDs of USB connected devices

@@ -1,0 +1,5 @@
+#!/bin/bash
+ifconfig # List network adapters and their info including IP.
+ping 172.31.1.147 # Pings a specified IP.
+netstat -an | grep "LISTEN " # list ports where servers are listening
+

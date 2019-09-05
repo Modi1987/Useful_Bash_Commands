@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo rm -rf directory_name # Removes a directory and sub-directories recursevely.
+zip -r nameOfZip.zip NameOfFOlder # Compresses a the folder specified in (NameOfFolder) into (nameOfZip.zip) file.
+chmod +x filename # used to change the mode of the file into Shell file

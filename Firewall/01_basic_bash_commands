@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo ufw enable # Enables the fire wall on ubuntu.
+sudo ufw disbale # Disables the fire wall on ubuntu.
